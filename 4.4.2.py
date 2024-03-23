@@ -1,5 +1,8 @@
 import turtle
 
+"""hash of the last commit: 529544858e35c41eaa19e07b0d302d1f6c0b70cc"""
+
+
 BOARD_COLOR = "black"
 CIRCLE_COLOR = "red"
 CROSS_COLOR = "blue"
